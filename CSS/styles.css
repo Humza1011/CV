@@ -81,9 +81,9 @@ hr {
   margin: 50px auto 50px auto;
 }
 
-.footer-note {
-  margin-bottom: 0;
-  margin-top: 40px;
+.footer-note {=
+  margin: 40px auto 20px auto;
+  font-size: 12px;
 }
 
 .footer-link {
